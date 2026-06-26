@@ -52,4 +52,4 @@ jobs:
           app-name: 'app-gbcode-jby'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B930C48C95F54DCFBC0879D4000A235B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B8E56B1AB7D44428F7723E98904B929 }}
